@@ -1,0 +1,5 @@
+C:\Users\Elijah\Documents\Visual Studio 2010\Puff\Fluffie\bin\Release\Fluffie.dll
+C:\Users\Elijah\Documents\Visual Studio 2010\Puff\Fluffie\bin\Release\Fluffie.pdb
+C:\Users\Elijah\Documents\Visual Studio 2010\Puff\Fluffie\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Elijah\Documents\Visual Studio 2010\Puff\Fluffie\obj\Release\Fluffie.dll
+C:\Users\Elijah\Documents\Visual Studio 2010\Puff\Fluffie\obj\Release\Fluffie.pdb
